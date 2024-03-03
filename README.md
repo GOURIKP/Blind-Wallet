@@ -4,13 +4,12 @@ Blind Wallet is an application designed to assist visually impaired individuals 
 # Features
 Currency Recognition: Blind Wallet uses image classification to identify the denomination of currency notes.
 User-Friendly Interface: The application provides a simple and intuitive interface for easy interaction.
-Voice Output: Blind Wallet announces the detected currency denomination using speech synthesis, making it accessible to visually impaired users.
-Web-Based Application: Access Blind Wallet through a web browser, making it convenient to use on various devices.
+Voice Output: Blind Wallet announces the detected currency denomination using speech synthesis, making it accessible to visually impaired usersWeb-Based Application: Access Blind Wallet through a web browser, making it convenient to use on various devices.
 
 # How it Works
 Upload Image: Users can upload an image of a currency note through the application interface.
 Image Processing: The uploaded image is processed using computer vision techniques to extract relevant features.
-Classification: The pre-trained machine learning model analyzes the features extracted from the image to classify the currency denomination.
+Classification: The pre-trained machine learning model analyzes the features extracted from the image to classify the currency denomination
 Voice Output: The result of the classification is announced using speech synthesis, providing auditory feedback to the user.
 Display Result: The application displays the detected currency denomination on the interface for confirmation.
 
