@@ -1,6 +1,3 @@
-Sure, here's a refined and structured version of your README file for the Blind Wallet project:
-
----
 
 # Blind Wallet
 
